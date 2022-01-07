@@ -1,16 +1,16 @@
 {
-  "name": "golswap-sdk",
+  "name": "BigSwap-sdk",
   "license": "MIT",
-  "version": "0.1.3",
-  "description": "🛠 An SDK for building applications on top of GolSwap.",
+  "version": "0.1.1",
+  "description": "🛠 An SDK for building applications on top of BigSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/golmaker/gol-swap-sdk.git",
+  "repository": "https://github.com/BigSwap-Finance/big-swap-sdk.git",
   "keywords": [
-    "golswap",
+    "bigswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
